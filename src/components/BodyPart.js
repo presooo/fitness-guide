@@ -1,7 +1,9 @@
 import React from 'react'
 import { Stack, Typography } from '@mui/material';
 
-import Icon from '../assets/icons/gym.png'
+import Icon from '../assets/icons/gym.png';
+
+import Logo from '../assets/images/footer-logo.png'
 
 const BodyPart = ({ item, bodyPart, setBodyPart }) => {
     return (
@@ -24,7 +26,7 @@ const BodyPart = ({ item, bodyPart, setBodyPart }) => {
                 window.scrollTo({ top: 1800, left: 100, behavior: 'smooth' });
             }}
         >
-            <img src={Icon} style={{ height: "40px", width: '40px' }} />
+            <img src={Logo} style={{ height: "40px", width: '40px' }} />
 
             <Typography
                 fontSize='24px'
