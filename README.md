@@ -4,4 +4,8 @@ I have built this as an experiment and to further improve my React skills and kn
 
 ## Technologies
 
-React, MaterialUI and RapidApi
+React, Material UI and RapidApi
+
+## Access
+https://preso-gym.netlify.app/
+
